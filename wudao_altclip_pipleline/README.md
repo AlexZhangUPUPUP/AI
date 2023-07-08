@@ -1,8 +1,4 @@
-# LAION-5B-WatermarkDetection
-For more information see [this repository](https://github.com/LAION-AI/watermark-detection)
+# wudao alt_clip multi_model data pipleline  
 
-## Models
-The current model is at `./models/watermark_model_v1.pt` and availible in the release as well
+![image](https://github.com/AlexZhangUPUPUP/AI/assets/64730887/d8e9b461-f164-43ca-9aa6-7f8d7f19db0a)
 
-## Usage
-See `example_use.py`
