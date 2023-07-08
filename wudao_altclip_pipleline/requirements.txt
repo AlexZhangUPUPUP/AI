@@ -1,0 +1,10 @@
+ftfy
+#regex
+tqdm
+#pathlib
+#yaml
+easydict==1.9
+pillow
+timm==0.4.9
+pandas
+webdataset

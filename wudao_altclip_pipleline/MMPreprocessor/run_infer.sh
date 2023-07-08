@@ -1,0 +1,1 @@
+rlaunch --cpu=32 --gpu=1 --memory=40960 -- python open_clip_inference.py --workers 32 --image_input_dir /sharefs/baai-mmdataset/wudaomm-5m --image_type Expression --output_dir /sharefs/baai-mmdataset/wudaomm-5m-openclip --json_input_path /sharefs/sharefs/baai-mmdataset/wudaomm-5m
